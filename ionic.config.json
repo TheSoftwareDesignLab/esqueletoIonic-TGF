@@ -1,5 +1,7 @@
 {
   "name": "TGF-core",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
